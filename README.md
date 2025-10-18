@@ -1,3 +1,5 @@
+![Dashboard Preview](Screenshot 2025-10-18 184157)
+
 🧠 Objective
 
 This project is inspired by a YouTube tutorial and aims to analyze the online sales performance of Madhav Store across India using Power BI.
