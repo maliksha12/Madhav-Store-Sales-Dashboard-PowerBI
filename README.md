@@ -1,4 +1,3 @@
-![Dashboard Preview](Screenshot 2025-10-18 184157.png)
 
 🧠 Objective
 
